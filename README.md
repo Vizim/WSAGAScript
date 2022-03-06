@@ -1,3 +1,6 @@
+#[WSA G Apps For Ubuntu Mobile]
+
+
 # [WSA GApps Script](https://github.com/WSA-Community/WSAGAScript)
 
 
